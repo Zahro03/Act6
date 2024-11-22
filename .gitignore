@@ -1,0 +1,22 @@
+# Ignore Android Studio related files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore build output directories
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Ignore local properties file (environment-specific)
+local.properties
